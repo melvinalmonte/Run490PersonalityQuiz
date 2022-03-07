@@ -1,4 +1,7 @@
-//
+/*
+ On my honor, I have neither received nor given any unauthorized assistance on this
+ examination (assignment).
+ */
 //  ViewController.swift
 //  Run490PersonalityQuiz
 //
